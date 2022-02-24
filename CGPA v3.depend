@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1533057569 source:d:\projects\mini project\cgpa v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533394079 source:d:\cgpa v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
